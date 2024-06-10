@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/banquee/static/css/main.2f374472.css",
+    "main.js": "/banquee/static/js/main.f4c41114.js",
+    "static/js/453.588a6443.chunk.js": "/banquee/static/js/453.588a6443.chunk.js",
+    "static/media/Hero Image.png": "/banquee/static/media/Hero Image.2bfe9745751ae22b2ce5.png",
+    "static/media/5 1.png": "/banquee/static/media/5 1.2d76cef3f4625ad9ad67.png",
+    "static/media/4 3.png": "/banquee/static/media/4 3.e132726653bcb1f3fa1c.png",
+    "static/media/9 1.png": "/banquee/static/media/9 1.af68c1c6c138056f48dd.png",
+    "static/media/11 1.png": "/banquee/static/media/11 1.b877102d1a5d5c7ab896.png",
+    "static/media/11 2.png": "/banquee/static/media/11 2.43196ff55dc34f60b7ad.png",
+    "static/media/4 1.png": "/banquee/static/media/4 1.12a9d1f1ace4e196becc.png",
+    "static/media/4 2 (1).png": "/banquee/static/media/4 2 (1).9c64d170c7ace5248dd0.png",
+    "static/media/4 2.png": "/banquee/static/media/4 2.32bf7336a44f346bf3ec.png",
+    "static/media/4 1 (1).png": "/banquee/static/media/4 1 (1).4521a9effef3cdeb0f12.png",
+    "static/media/GT-America-Expanded-Bold-Trial.otf": "/banquee/static/media/GT-America-Expanded-Bold-Trial.f13e852eaa4a0fc126ae.otf",
+    "static/media/image 2.png": "/banquee/static/media/image 2.9f95ce2c2dd66968f2d8.png",
+    "index.html": "/banquee/index.html",
+    "main.2f374472.css.map": "/banquee/static/css/main.2f374472.css.map",
+    "main.f4c41114.js.map": "/banquee/static/js/main.f4c41114.js.map",
+    "453.588a6443.chunk.js.map": "/banquee/static/js/453.588a6443.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f374472.css",
+    "static/js/main.f4c41114.js"
+  ]
+}
